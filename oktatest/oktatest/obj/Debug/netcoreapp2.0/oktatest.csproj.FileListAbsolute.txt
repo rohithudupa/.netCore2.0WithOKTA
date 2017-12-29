@@ -1,0 +1,11 @@
+D:\OKTA\.net\oktatest\oktatest\bin\Debug\netcoreapp2.0\oktatest.deps.json
+D:\OKTA\.net\oktatest\oktatest\bin\Debug\netcoreapp2.0\oktatest.runtimeconfig.json
+D:\OKTA\.net\oktatest\oktatest\bin\Debug\netcoreapp2.0\oktatest.runtimeconfig.dev.json
+D:\OKTA\.net\oktatest\oktatest\bin\Debug\netcoreapp2.0\oktatest.dll
+D:\OKTA\.net\oktatest\oktatest\obj\Debug\netcoreapp2.0\oktatest.csprojResolveAssemblyReference.cache
+D:\OKTA\.net\oktatest\oktatest\obj\Debug\netcoreapp2.0\oktatest.csproj.CoreCompileInputs.cache
+D:\OKTA\.net\oktatest\oktatest\obj\Debug\netcoreapp2.0\oktatest.AssemblyInfoInputs.cache
+D:\OKTA\.net\oktatest\oktatest\obj\Debug\netcoreapp2.0\oktatest.AssemblyInfo.cs
+D:\OKTA\.net\oktatest\oktatest\bin\Debug\netcoreapp2.0\oktatest.pdb
+D:\OKTA\.net\oktatest\oktatest\obj\Debug\netcoreapp2.0\oktatest.dll
+D:\OKTA\.net\oktatest\oktatest\obj\Debug\netcoreapp2.0\oktatest.pdb

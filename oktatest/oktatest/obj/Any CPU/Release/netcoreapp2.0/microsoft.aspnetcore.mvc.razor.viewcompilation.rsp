@@ -1,0 +1,12 @@
+D:\OKTA\.net\oktatest\oktatest
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=oktatest
+--content-root=D:\OKTA\.net\oktatest\oktatest
+--file=D:\OKTA\.net\oktatest\oktatest\Views\Home\About.cshtml
+--file=D:\OKTA\.net\oktatest\oktatest\Views\Home\Contact.cshtml
+--file=D:\OKTA\.net\oktatest\oktatest\Views\Home\Index.cshtml
+--file=D:\OKTA\.net\oktatest\oktatest\Views\Shared\Error.cshtml
+--file=D:\OKTA\.net\oktatest\oktatest\Views\Shared\_Layout.cshtml
+--file=D:\OKTA\.net\oktatest\oktatest\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\OKTA\.net\oktatest\oktatest\Views\_ViewImports.cshtml
+--file=D:\OKTA\.net\oktatest\oktatest\Views\_ViewStart.cshtml
